@@ -1,0 +1,3 @@
+C:\Program Files\nodejs\meli\dashboardml\dashboardml\obj\Debug\dashboardml.njsproj.AssemblyReference.cache
+C:\Program Files\nodejs\meli\dashboardml\dashboardml\obj\Debug\dashboardml.njsproj.CoreCompileInputs.cache
+C:\Program Files\nodejs\meli\dashboardml\dashboardml\bin\Microsoft.NodejsTools.WebRole.dll
